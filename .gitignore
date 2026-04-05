@@ -1,0 +1,16 @@
+.communication_lab/
+.mypy_cache/
+.pytest_cache/
+.streamlit/
+.venv/
+.vite/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+node_modules/
+*.tsbuildinfo
+web-dist/
+dist/
+build/
